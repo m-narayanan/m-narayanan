@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Narayanan</h1>
+<h1 align="center">Hi <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</p>, I'm Narayanan</h1>
 <h3 align="center">Transforming Data into Insights 🌟</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
+
 
 - 🔍 **Exploring the Intersection of Data and Intelligence**: I'm passionate about uncovering patterns and insights hidden within data. Whether it's through data analytics or machine learning, I love turning raw data into actionable knowledge.
 
