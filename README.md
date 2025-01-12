@@ -1,20 +1,22 @@
-<h1 align="center">Hi , I'm Narayanan</h1>
-<h3 align="center">A passionate data analyst and machine learning enthusiast 🚀</h3>
+<h1 align="center">Hi 👋, I'm Narayanan</h1>
+<h3 align="center">Transforming Data into Insights 🌟</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
 
-- 👯 I’m looking to collaborate on **Open-source projects involving data analytics, machine learning, or automation tools.**
+- 🔍 **Exploring the Intersection of Data and Intelligence**: I'm passionate about uncovering patterns and insights hidden within data. Whether it's through data analytics or machine learning, I love turning raw data into actionable knowledge.
 
-- 💬 Ask me about **Turning messy datasets into visually stunning dashboards 📊**
+- 🤝 **Open to Collaborations**: I'm always looking for exciting open-source projects to contribute to, especially those focused on data analytics, machine learning, or automation tools. Let's build something amazing together!
+
+- 💡 **Ask Me About**: Data visualization, predictive modeling, and creating intuitive dashboards that tell a story. I believe that data should be both informative and visually compelling.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/me-m-narayanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-m-narayanan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -70,9 +72,4 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username" />
 </p>
