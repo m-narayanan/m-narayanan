@@ -1,5 +1,5 @@
-<h1 align="center">Narayanan</h1>
-<h3 align="center">Passionate Data Analyst and Machine Learning Enthusiast</h3>
+
+<h3 align="center">Technologist and Problem Solver</h3>
 
 <p align="center">
   <img src="Uploaded-using-RayThis-Extension.svg" alt="This is a motivational code written inside an IDE theme" width="100%"/>
@@ -8,12 +8,12 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-m-narayanan)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,9 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=m-narayanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m-narayanan&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-narayanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
