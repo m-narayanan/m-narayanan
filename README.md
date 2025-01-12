@@ -1,6 +1,6 @@
 <h1 align="center">Hi <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>, I'm Narayanan</h1>
+</p> I'm Narayanan</h1>
 <h3 align="center">Transforming Data into Insights 🌟</h3>
 
 
